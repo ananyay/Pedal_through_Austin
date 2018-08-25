@@ -1,4 +1,6 @@
-##Pedaling through Austin Project
+## Pedaling through Austin Project
+
+![Image Source:"https://medium.com/@michael.lanham/what-keeps-the-wheels-turning-a-data-science-examination-of-austin-b-cycle-eb5d272de59f"](README_IMAGES/bikeshare.png)
 
 ### Team Members:
 
@@ -19,7 +21,7 @@ Tinku Supakar, Ananya Bhasuri, Jo Anne Thanner & Gabriela Cantu
 This analysis helps the enterprise to increase the profit by increasing the availability of the bikes at the most popular stations during the most popular times. This would help the company determine when the best time is to make bike repairs, when to order new bicycles,  and when to store extra backup bicycles. 
 This also helps the customers to select the most price worthy membership. 
 
-###Scope: 
+### Scope: 
 
 * We only have the data for the Austin B-Cycle company
 * Data is only from December, 2013 through July, 2018
