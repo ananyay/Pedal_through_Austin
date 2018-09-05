@@ -33,7 +33,7 @@ This analysis suggests a more efficient allocation of resources in order to meet
 
 ### Research Questions : 
 
-1. Is there any variation in the usage over 5 years?
+1. Is there any variation in the bike utilization over 5 years?
 
 2. What are the high demand hubs and times that Austin B-Cycle needs to meet?
 
@@ -51,6 +51,21 @@ This analysis suggests a more efficient allocation of resources in order to meet
 * Writing Analysis
 
 ### Research Findings :
+
+1. Is there any variation in the bike utilization over 5 years?
+
+!(Images/Rides_per_Year.png)
+* Bike utilization have been increased from 2013 to 2015 and then it reached a plateau. However, in the current year, 2018, demand has exploded since the offering of free 18 month memberships to U.T. students.
+
+2. What are the high demand hubs and times that Austin B-Cycle needs to meet?
+
+!(Images/Rides_per_Month.png)
+!(Images/Busy_Hour.png)
+!(Images/Busy_Week.png)
+
+*  Speedway & 21st by PCL has high number of checkouts 
+
+
 
 ### Conclusions: 
 
