@@ -37,11 +37,14 @@ This analysis suggests a more efficient allocation of resources in order to meet
 
 2. What are the high demand hubs and times that Austin B-Cycle needs to meet?
 
-3. What have been the different categorical membership types  and what is the utilization of the service by type of membership?
+3. What have been the different categorical membership types and what is the utilization of the service by type of membership?
 
 4. Is there a correlation between annual events and rides?
 
-5. How long is a trip on an average and where do the trips usually start from? 
+5. How long is a trip on an average?
+
+6. Unique and Temporary Situations that affects the bike rides?
+
 
 ### Actions and Tasks: 
 
@@ -54,17 +57,44 @@ This analysis suggests a more efficient allocation of resources in order to meet
 
 1. Is there any variation in the bike utilization over 5 years?
 
-!(Images/Rides_per_Year.png)
+![Rides per Year](Images/Rides_per_Year.png)
+
 * Bike utilization have been increased from 2013 to 2015 and then it reached a plateau. However, in the current year, 2018, demand has exploded since the offering of free 18 month memberships to U.T. students.
 
-2. What are the high demand hubs and times that Austin B-Cycle needs to meet?
+2. What are the high demand hubs and times for B-Cycle?
 
-!(Images/Rides_per_Month.png)
-!(Images/Busy_Hour.png)
-!(Images/Busy_Week.png)
+![Popular Stations](Images/Pop_Station.png)
+![Rides per Month](Images/Rides_per_Month.png)
+![Busy Hours](Images/Busy_Hour.png)
+![Busy Weekdays](Images/Busy_Week.png)
 
-*  Speedway & 21st by PCL has high number of checkouts 
+- NOTE : Total ride count from 2013 to 2018 are taken into consideration
+* Speedway & 21st by PCL has high number of checkouts 
+* Months of March and October has high record of total  checkouts which correspond to SXSW and ACL 
+* There is more usage of bikes on weekends compared to weekdays.Saturday is the busiest day of the week 
+* 5pm is the peak time for bike ride on any day of the week
 
+3.
+
+4. Is there a correlation between annual events and rides?
+- Note : Data from 2014 to 2017 is considered 
+
+![SXSW and ACL](Images/SXSW-ACL.png)
+
+* Annual events like SXSW and ACL affects the bike utilization .The graph proves the point with high number of total checkouts in the month of March and October.
+
+5. How long is a trip on an average?
+
+![Average Duaration Membership Type](Images/avg_duration_mem_type.png)
+- NOTE : Total ride count from 2013 to 2018 are taken into consideration
+
+* Trips are usually on an average of 28 minutes , calcualting on total trip duration in the data
+
+6. Unique and Temporary Situations that affects the bike rides?
+
+![Uber Ban](Images/Uberban.png)
+
+Total bike rides during Uber Ban were higher except for 2018, which was affected by the U.T. students free bike rentals.
 
 
 ### Conclusions: 
