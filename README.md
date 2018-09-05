@@ -51,8 +51,7 @@ This analysis helps the enterprise to increase the profit by increasing the avai
 
 * We found that bike usage increases consistently throughout the years and that March and October are the top two months with the most bike rentals. This is due to SXSW and ACL festivals.
 * There is more usage of bikes on weekends compared to weekdays.
-* Saturday seems to be more popular. 
-* 2:00pm to 5:00 pm are the busiest hours on any day of the week. 
+* Saturday has the most bicycle rentals and 2:00pm to 5:00 pm are the busiest hours on any day of the week. 
 * The top station is 21st and Speedway.
 * The most popular membership type is “walk up” with the longest average trip duration of 41 minutes.
 * The 18 month U.T. pilot program for free student bike rentals started in 2018, and is very popular.
