@@ -17,7 +17,7 @@ Tinku Supakar, Ananya Yetigadda, Jo Anne Thanner & Gabriela Cantu
  
 ### Purpose: 
 
-This analysis helps the enterprise to increase the profit by increasing the availability of the bikes at the most popular stations during the most popular times. This would help the company determine when the best time is to make bike repairs, when to order new bicycles, and when to store extra backup bicycles. This also helps the customers to select the most price worthy membership.
+This analysis helps the enterprise to increase the profit by increasing the availability of the bikes at the most popular stations during the most popular times. This would help the company determine when the best time is to make bike repairs, when to order new bicycles, and when to store extra backup bicycles. 
 
 ### Scope: 
 
@@ -48,4 +48,12 @@ This analysis helps the enterprise to increase the profit by increasing the avai
 * Writing Analysis
 
 ### Conclusions: 
-To be discussed
+
+* We found that bike usage increases consistently throughout the years and that March and October are the top two months with the most bike rentals. This is due to SXSW and ACL festivals.
+* There is more usage of bikes on weekends compared to weekdays
+* Saturday seems to be more popular 
+* 2:00pm to 5:00 pm are the busiest hours on any day of the week 
+* The top station is 21st and Speedway
+* The most popular membership type is “walk up” with the longest average trip duration of 41 minutes.
+* The 18 month U.T. pilot program for free student bike rentals started in 2018, and is very popular.
+* Total bike rides during Uber Ban were higher except for 2018, which was affected by the U.T. students free bike rentals.
