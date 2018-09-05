@@ -51,19 +51,55 @@ This analysis suggests a more efficient allocation of resources in order to meet
 * Writing Analysis
 
 ### Research Findings :
+1. Is there any variation in bike utilization over 5 years?
+
+* Bike utilization increased from 2013 to 2015 and then it reached a plateau. However, in the current year, 2018, demand has exploded since the offering of the free 18 month memberships to U.T. students. 
 
 ![Rides per Year](Images/Rides_per_Year.png)
-![Busy Hours](Images/Busy_Hour.png)
-![Busy Weekdays](Images/Busy_Week.png)
-![Demand Heatmap](Images/Hours-day.png)
-![Average Duaration Membership Type](Images/avg_duration_mem_type.png)
-![Membership Types](Images/mem_type.png)
-![Membership Types per Year](Images/mem_type_year.png)
-![Popular Stations](Images/Pop_Station.png)
+
+2. What are the high demand hubs and times that Austin B-Cycle needs to meet?
+
+* March and October are the top two months with the most bike rentals. 
+
 ![Rides per Month](Images/Rides_per_Month.png)
+
+* 2:00pm to 5:00 pm are the busiest hours on any day of the week. 
+
+![Busy Hours](Images/Busy_Hour.png)
+
+* There is more usage of bikes on weekends compared to weekdays. Saturday has the highest bicycle rentals. 
+
+![Busy Weekdays](Images/Busy_Week.png)
+
+*We have included a heatmap by week day and hour that combines the previous findings. We can clearly see from this graphic that the weekends in the afternoon is the most popular time to ride with Austin B-Cycle. This may be the result of the tourism that comes to Austin during the weekends.
+
+![Demand Heatmap](Images/Hours-day.png)
+
+* The following graph displays the station count and takes the top six more popular stations. The most popular stations are located within or in very close proximity to the university.
+
+![Popular Stations](Images/Pop_Station.png)
+
+3. What have been the different categorical membership types and what is the utilization of the service by type of membership?
+
+* Membership types keep changing every year because some memberships are social media promotions (like U.T. students and faculty) and subsequently they are phased out. For our analysis we have categorized the data by walk up, day, weekend, week, month, year, 3 year, and U.T. student memberships respectively. We found that the most popular membership type is walk up among all the categories. 
+
+![Membership Types](Images/mem_type.png)
+
+* Bike trips are usually on an average of 28 minutes. However, if we look at the data by membership type, the longest average trip duration is of 41 minutes for the walk up membership.
+
+![Average Duaration Membership Type](Images/avg_duration_mem_type.png)
+
+4. What are the unique and temporary situations that have affected the bike rides?
+
+Events like SXSW and ACL affects ridership. March and October have the highest number of bike rentals due to these festivals. However SXSW is more popular than ACL for bike rides because of its Downtown location. 
+
 ![SXSW and ACL](Images/SXSW-ACL.png)
+
+Total bike rides during Uber Ban were 206052. This number was higher than the yearly average bike rides value (165211). 
+
 ![Uber Ban](Images/Uberban.png)
 
+Total bike rides during Uber Ban were higher except for 2018, which was affected by the U.T. students free bike rentals.
 
 ### Conclusions: 
 
