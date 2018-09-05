@@ -32,7 +32,8 @@ This analysis helps the enterprise to increase the profit by increasing the avai
 
 1. Is there any variation in the usage over 5 years?
 
-2. Are there any factors that promote the usage of bikes ?
+2. Are there any factors that promote the usage of bikes?
+
 ![Average Duaration Membership Type](Images/avg_duration_mem_type.png)
 
 3. Why does the B-Cycle website not include all the membership types available in the data?
