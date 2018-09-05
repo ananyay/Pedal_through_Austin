@@ -1,6 +1,6 @@
 ## Pedaling through Austin Project
 
-![Austin B-Cycle](README_IMAGES/bikeshare.jpeg)
+![Austin B-Cycle](README_IMAGES/bikeshare.jpg)
 
 ### Team Members:
 
