@@ -71,23 +71,15 @@ This analysis suggests a more efficient allocation of resources in order to meet
 
 ![Busy Weekdays](Images/Busy_Week.png)
 
-*We have included a heatmap by week day and hour that combines the previous findings. We can clearly see from this graphic that the weekends in the afternoon is the most popular time to ride with Austin B-Cycle. This may be the result of the tourism that comes to Austin during the weekends.
+* We have included a heatmap by week day and hour that combines the previous findings. We can clearly see from this graphic that the weekends in the afternoon are the most popular times to ride with Austin B-Cycle. This may be the result of the visitor influx that comes to Austin during the weekends.
 
 ![Demand Heatmap](Images/Hours-day.png)
-
-* The following graph displays the station count and takes the top six more popular stations. The most popular stations are located within or in very close proximity to the university.
-
-![Popular Stations](Images/Pop_Station.png)
 
 3. What have been the different categorical membership types and what is the utilization of the service by type of membership?
 
 * Membership types keep changing every year because some memberships are social media promotions (like U.T. students and faculty) and subsequently they are phased out. For our analysis we have categorized the data by walk up, day, weekend, week, month, year, 3 year, and U.T. student memberships respectively. We found that the most popular membership type is walk up among all the categories. 
 
 ![Membership Types](Images/mem_type.png)
-
-* Bike trips are usually on an average of 28 minutes. However, if we look at the data by membership type, the longest average trip duration is of 41 minutes for the walk up membership.
-
-![Average Duaration Membership Type](Images/avg_duration_mem_type.png)
 
 4. What are the unique and temporary situations that have affected the bike rides?
 
@@ -99,7 +91,18 @@ Total bike rides during Uber Ban were 206052. This number was higher than the ye
 
 ![Uber Ban](Images/Uberban.png)
 
-Total bike rides during Uber Ban were higher except for 2018, which was affected by the U.T. students free bike rentals.
+Total bike rides during Uber Ban were higher except for 2018, which was affected by the U.T. free membership.
+
+5. How long is a trip on an average and where do the trips usually start from? 
+
+* The following graph displays the station count and takes the top six more popular stations. The most popular stations are located within or in very close proximity to the university.
+
+![Popular Stations](Images/Pop_Station.png)
+
+* Bike trips are usually on an average of 28 minutes. However, if we look at the data by membership type, the longest average trip duration is of 41 minutes for the walk up membership.
+
+![Average Duaration Membership Type](Images/avg_duration_mem_type.png)
+
 
 ### Conclusions: 
 
