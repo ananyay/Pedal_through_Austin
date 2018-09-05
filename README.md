@@ -1,6 +1,6 @@
 ## Pedaling through Austin Project
 
-![Image Source:"https://medium.com/@michael.lanham/what-keeps-the-wheels-turning-a-data-science-examination-of-austin-b-cycle-eb5d272de59f"](README_IMAGES/bikeshare.png)
+!(README_IMAGES/bikeshare.jpeg)
 
 ### Team Members:
 
