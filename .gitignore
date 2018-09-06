@@ -72,6 +72,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Google Api 
+config.py
+
 # pyenv
 .python-version
 
