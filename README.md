@@ -67,7 +67,7 @@ This analysis suggests a more efficient allocation of resources in order to meet
 
 ![Busy Hours](Images/Busy_Hour.png)
 
-* There is more usage of bikes on weekends compared to weekdays. Saturday has the highest bicycle rentals. 
+* We noticed weekends are in high demand compared to weekdays, but Saturday has highest volume and can be determined as it is the most popular day of week.
 
 ![Busy Weekdays](Images/Busy_Week.png)
 
@@ -113,3 +113,7 @@ Total bike rides during Uber Ban were higher except for 2018, which was affected
 * The most popular membership type is “walk up” with the longest average trip duration of 41 minutes.
 * The 18 month U.T. pilot program for free student bike rentals started in 2018, and is very popular.
 * Total bike rides during Uber Ban were higher except for 2018, which was affected by the U.T. students free bike rentals.
+
+### Slideshow: 
+
+[Presentation](https://docs.google.com/presentation/d/1fIk0yN7bH_pLIRUxPTkyxm9zOThLRluyKVivEPbjPdc/edit?usp=sharing)
