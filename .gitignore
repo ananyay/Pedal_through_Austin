@@ -73,7 +73,7 @@ target/
 .ipynb_checkpoints
 
 # Google Api 
-config.py
+.config.py
 
 # pyenv
 .python-version
