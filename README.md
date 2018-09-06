@@ -116,4 +116,4 @@ Total bike rides during Uber Ban were higher except for 2018, which was affected
 
 ### Slideshow: 
 
-[Presentation](https://docs.google.com/presentation/d/1fIk0yN7bH_pLIRUxPTkyxm9zOThLRluyKVivEPbjPdc/edit?usp=present)
+[Presentation](https://docs.google.com/presentation/d/1fIk0yN7bH_pLIRUxPTkyxm9zOThLRluyKVivEPbjPdc/present?slide=id.p)
