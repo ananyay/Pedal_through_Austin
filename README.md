@@ -4,7 +4,7 @@
 
 ### Team Members:
 
-Tinku Supakar, Ananya Yetigadda, Jo Anne Thanner & Gabriela Cantu 
+Ananya Yetigadda,Tinku Supakar,Jo Anne Thanner & Gabriela Cantu 
 
 ### Introduction: 
 
